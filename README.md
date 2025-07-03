@@ -18,7 +18,7 @@ A sleek and simple web-based currency converter that allows users to get real-ti
 
 ## 📸 Preview
 
-![Screenshot](./screenshot.png)
+![Screenshot](./Screenshot.png)
 
 ## 📁 Project Structure
 currency-converter/
