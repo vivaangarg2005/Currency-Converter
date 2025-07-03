@@ -2,6 +2,10 @@
 
 A sleek and simple web-based currency converter that allows users to get real-time exchange rates and convert amounts between different currencies.
 
+## 🔗 Live Demo
+
+👉 [Try the Currency Converter](https://vivaangarg2005.github.io/Currency-Converter/index.html)
+
 ## 🚀 Features
 
 - 🌍 Convert between any two currencies
@@ -20,5 +24,6 @@ A sleek and simple web-based currency converter that allows users to get real-ti
 
 ![Screenshot](./Screenshot.png)
 
-###  Made with 💚 by **Vivaan Garg**
+---
 
+### 👨‍💻 Made with 💚 by **Vivaan Garg**
