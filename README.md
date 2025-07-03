@@ -4,7 +4,7 @@ A sleek and simple web-based currency converter that allows users to get real-ti
 
 ## 🔗 Live Demo
 
-👉 [Try the Currency Converter](https://vivaangarg2005.github.io/Currency-Converter/index.html)
+👉 [Try the Currency Converter](https://vivaangarg2005.github.io/Currency-Converter/Currency%20Converter.html)
 
 ## 🚀 Features
 
